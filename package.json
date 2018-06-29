@@ -1,0 +1,16 @@
+{
+  "name": "bcap-mockserver",
+  "version": "1.0.0",
+  "description": "Mockserver for Brasilcap APIs",
+  "main": "index.js",
+  "author": "Pedro Sotero",
+  "license": "ISC",
+  "scripts": {
+    "mock": "node index.js"
+  },
+  "devDependencies": {
+    "copy-dir": "^0.3.0",
+    "gulp": "^3.9.1",
+    "mockserver": "^1.11.0"
+  }
+}
